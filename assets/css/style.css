@@ -1,0 +1,17 @@
+.tele {
+	float: left;
+}
+#show-form {
+	background: rgb(165, 175, 15);
+	color: white;
+	font-size: 20px;
+	margin: 0;
+}
+.panel-heading{
+	margin: 0;
+}
+button {
+	margin: 10px;
+	background: rgb(165, 175, 15);
+	color: white;
+}
